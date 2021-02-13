@@ -1,0 +1,3 @@
+officially release of project aimware.
+
+(+)Added 6 new Anti-Aim options
